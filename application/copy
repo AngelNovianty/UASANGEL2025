@@ -1,0 +1,16 @@
+INSERT INTO `tbl_mahasiswa` (`id_mahasiswa`, `NIM`, `Nama`, `Prodi`, `Konsentrasi`, `Gender`) VALUES 
+(NULL, '1124160177', 'Daffa Dermawan', 'Teknik Informatika', 'Software Engineering', 'Pria'),
+(NULL, '1124160070', 'Deva', 'Teknik Informatika', 'IoT', 'Pria'),
+(NULL, '1124160071', 'Darmawan', 'Sistem Informasi', 'Software Engineering', 'Pria'),
+(NULL, '1124160072', 'Afwan', 'Sistem Informasi', 'Computer Accounting', 'Pria'),
+(NULL, '1124160073', 'Awan', 'Teknik Informatika', 'Computer Accounting', 'Pria'),
+(NULL, '1124160074', 'Farma', 'Teknik Informatika', 'Software Engineering', 'Pria'),
+(NULL, '1124160075', 'Affan', 'Teknik Informatika', 'Software Engineering', 'Pria'),
+(NULL, '1124160076', 'Fafan', 'Teknik Informatika', 'Software Engineering', 'Pria'),
+(NULL, '1124160077', 'Daran', 'Teknik Informatika', 'CDM', 'Wanita'),
+(NULL, '1124160078', 'Mawan', 'Teknik Informatika', 'Software Engineering', 'Pria'),
+(NULL, '1124160079', 'Ferawan', 'Teknik Informatika', 'CDM', 'Wanita'),
+(NULL, '1124160080', 'Diffa', 'Teknik Informatika', 'Software Engineering', 'Pria'),
+(NULL, '1124160081', 'Daffodil', 'Teknik Informatika', 'Software Engineering', 'Pria'),
+(NULL, '1124160082', 'Marwan', 'Teknik Informatika', 'Software Engineering', 'Pria'),
+(NULL, '1124160083', 'Armawan', 'Teknik Informatika', 'Software Engineering', 'Pria');
